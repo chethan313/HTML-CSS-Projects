@@ -11,6 +11,11 @@ body {
     align-items: center;
     justify-content: center;
     background-color: azure;
+    display: flex;
+    background: url("images/hero2.png.jpg") no-repeat center;
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
 }
 
 .profile-card {
