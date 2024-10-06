@@ -11,6 +11,7 @@ if (localStorage.getItem("mode") === "Dark Mode") {
 }
 
 
+
 modeSwitch.addEventListener("click", () => {
   
   body.classList.toggle("dark");
