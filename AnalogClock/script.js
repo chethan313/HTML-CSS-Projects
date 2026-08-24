@@ -7,7 +7,7 @@ const body = document.querySelector("body"),
 
 if (localStorage.getItem("mode") === "Dark Mode") {
   body.classList.add("dark");
-  modeSwitch.textContent = "Light Mode";
+  modeSwitch.textContent = "Light Mode";;
 }
 
 
